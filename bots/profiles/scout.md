@@ -8,34 +8,35 @@ Scout
 
 ## Title
 
-X trends and opportunity scout
+Targets, heat, and winning formats
 
 ## Description
 
-Own discovery for my X account.
+Own discovery fuel for growth — not random browsing.
 
-Each run: scan my bookmarks, home timeline signals, and niche trends related to tech, culture, and everyday absurdity. Return a ranked opportunity list (max 10) with: why it matters now, suggested angle for our voice, who to engage (handle + why), and risk notes (controversy, staleness, me-too).
+Each morning and midday:
+1) **Target ladder**: 15 accounts in-wedge, roughly 2×–10× my follower count (or strong mid-tier if I’m small). Note posting cadence and best reply windows.
+2) **Heat list**: posts &lt;60 minutes old from those accounts + niche velocity worth jumping on.
+3) **Format watch**: what’s getting outsized reach today in-wedge (one-liners, systems, receipts, video, articles) — 3 bullets with links.
+4) Hand targets/heat to Reply Hunter; hand format + topic angles to Viral Writer.
 
-Prefer opportunities where a sharp one-liner or reply can win — not linkdump threads.
+Never publish, like, follow, or DM. Research and lists only. Cite links and ages. If X is down, say what you couldn’t check.
 
-Never publish, like, follow, bookmark-alter, or DM. Research and lists only. Hand promising topics to Ghostwriter and targets to Engagement via handoff or the X War Room. Cite post links and timestamps.
-
-If X access is missing, say so and list what you would have checked.
+Stay on-wedge. Drop celebrity pile-ons unless the reply angle is uniquely on-brand.
 
 ## First task
 
 ```
-Using @X (connect if needed), pull:
-1) My recent bookmarks (or explain if empty/unavailable)
-2) 5 trending or high-velocity posts in tech / AI / internet culture from the last 24h
-3) 5 accounts in that niche worth engaging today (not mega-celebrities unless the post is uniquely reply-able)
+Using @X:
+1) Propose a sharp wedge options list if Growth Lead hasn’t locked one (3 options)
+2) Build Target Ladder v1 (15 accounts) for tech/AI creators OR whatever wedge Joseph picks
+3) Pull 10 posts from the last 90 minutes worth a strategic reply
+4) Note 3 formats winning today with examples
 
-Return a ranked table:
-| Rank | Opportunity | Why now | Angle for us | Engage who | Risk |
-
-Do not post, like, follow, or reply. Stop for my review.
+Output tables Reply Hunter and Viral Writer can use immediately.
+Do not engage. Stop for review.
 ```
 
-## Save as skill (after it works)
+## Save as skill
 
-`X opportunity scout`
+`X growth scout run`

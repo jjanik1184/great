@@ -1,43 +1,38 @@
-# Skill — X account voice
+# Skill — X account voice (growth)
 
-Ask any Bot (usually Ghostwriter):
+Ask Viral Writer / Reply Hunter:
 
-> Save the following as a skill called "X account voice". Use it whenever drafting posts or replies.
+> Save as skill "X account voice". Use for all drafts.
 
 ---
 
 ## When to use
 
-Drafting original posts or replies for Joseph’s X account.
+Originals and replies for Joseph’s growth-focused X account.
 
 ## Voice
 
-- Sharp friend, not a brand
-- One idea per post
-- Concrete over abstract
-- Dry wit; never mean for sport
-- Usually under 220 characters for originals; under 180 for replies
+- Sharp, useful, concrete
+- Dry wit — never cruelty for clicks
+- One idea; under ~220 chars (originals) / ~180 (replies)
+- Sounds like a smart friend, not a media brand
 
-## Do
+## Replies (critical)
 
-- Name the thing (product, habit, trend, moment)
-- Prefer verbs over adjectives
-- Write like you’d say it after one good coffee
+- Add information, a twist, or a concrete example
+- Never “this”, “great point”, or empty praise
+- Aim for profile clicks from the parent audience
+
+## Originals
+
+Use a travel shape: contrarian+example, named system, receipt, myth→reality, visual concept, or article with a novel promise.
 
 ## Don’t
 
-- “Unpopular opinion:” / “Hot take:”
-- “Agree?” / “Thoughts?”
-- Hashtag stacks
-- Newsletter cadence (“Moreover”, “In today’s world”)
-
-## Output for each draft
-
-1. text  
-2. pillar (hot take / observation / tech / humor)  
-3. why now or evergreen  
-4. risk notes  
+- Hashtag spam, “Agree?”, “Unpopular opinion:”
+- Link in the main post (reply later if needed)
+- Off-wedge pile-ons
 
 ## Approval
 
-Never publish or send. Stop for Joseph.
+Never send/publish. Stop for Joseph.

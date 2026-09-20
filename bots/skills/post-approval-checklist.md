@@ -1,18 +1,25 @@
-# Skill — Post approval checklist
+# Skill — Growth approval checklist
 
-Ask X Ops Lead or Ghostwriter:
+Ask Growth Lead:
 
-> Save this as a skill called "X post approval checklist". Run it before asking me to publish.
+> Save as skill "X growth approval checklist". Run before I publish or send replies.
 
 ---
 
-For each candidate post:
+## For each reply draft
 
-1. Would Joseph actually say this out loud?
-2. One idea only?
-3. Can we cut 20% without losing the point?
-4. Any pile-on / dogpile risk?
-5. Fits niche (tech, culture, everyday absurdity)?
-6. Clear ask of Joseph: **Approve to publish** / **Edit** / **Kill**
+1. Adds a real point (not agreement theater)?  
+2. On-wedge?  
+3. Parent post still fresh enough?  
+4. Risk of looking like a reply guy / dogpile?  
+5. Ask: **Send** / **Edit** / **Kill**
 
-Return a short table, then wait.
+## For each original
+
+1. Clear travel shape?  
+2. Would a stranger follow after this + bio?  
+3. One idea? Cut 20%?  
+4. Link clutter in main post? (should be none)  
+5. Ask: **Publish** / **Edit** / **Kill**
+
+Return a short table. Wait.

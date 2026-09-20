@@ -1,27 +1,33 @@
-# Roster — who owns what
+# Roster — growth team
 
-Keep the team small. Add a fifth Bot only when a lane has a stable specialty (e.g. Analytics).
+Goal: compound toward a massive audience. **Reply Hunter is the main engine.** Everyone else feeds it.
+
+| Bot | Job | Why it exists |
+| --- | --- | --- |
+| **Growth Lead** | Daily scoreboard, wedge discipline, what Joseph must approve | Keeps the machine honest |
+| **Reply Hunter** | 30–50 high-leverage reply drafts/day on rising posts | Primary follower acquisition |
+| **Viral Writer** | Breakout-shaped originals (not diary posts) | Converts profile visits → follows |
+| **Scout** | Target accounts, formats winning today, topic heat | Fuel for Hunter + Writer |
 
 ## Ownership map
 
-| Outcome | Owner | Helps |
-| --- | --- | --- |
-| Daily priorities + “what needs Joseph” | **X Ops Lead** | all |
-| What to talk about / who to engage | **Scout** | Ops Lead |
-| Original post drafts | **Ghostwriter** | Scout (topic), Ops Lead (slot) |
-| Reply drafts on mentions & threads | **Engagement** | Scout (targets) |
-| Weekly “what worked” review | **X Ops Lead** | Ghostwriter (best drafts), Scout (coverage) |
+| Outcome | Owner |
+| --- | --- |
+| Weekly follower / impression targets + diagnosis | Growth Lead |
+| Reply packs (link, draft, why it wins) | Reply Hunter |
+| 3–5 travel-ready originals/day | Viral Writer |
+| Target list (2×–10× your size) + hot posts &lt;30m old | Scout |
+| Profile / pin / bio experiments | Growth Lead (draft) → Joseph approves |
 
 ## Approval boundary (account-wide)
 
-Put this in every Bot description (already included in profiles):
+- Research + drafts: free
+- Send reply / post / like / follow / DM / profile edit: **Joseph approves**
+- No engagement pods, bought followers, or reply spam
+- If X plugin fails: report and stop
 
-- Research, drafts, and watch lists: **do freely**
-- Publish, DM, follow/unfollow, like, repost, profile edits: **stop for approval**
-- If X plugin or login fails: **report it — don’t invent workarounds with fake posts**
+## Effort split Growth Lead enforces
 
-## How they talk
-
-- Day-to-day: message one Bot directly.
-- Shared outcome: **X War Room** group (`bots/kickoffs/x-war-room.md`).
-- Hand off with `@BotName` and one owner per stage.
+- ~70% capacity on Reply Hunter output
+- ~30% on Viral Writer
+- Scout serves both before 7:30 AM America/Chicago

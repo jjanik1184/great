@@ -1,64 +1,54 @@
-# Setup — connect tools and go live
+# Setup — growth team live in ~15 minutes
+
+## 0. Account prerequisites
+
+- [ ] X account exists
+- [ ] **X Premium** on (reply ranking + reach)
+- [ ] Face photo + readable name
+- [ ] Decide a wedge: “Follow me for ___” (see Growth Lead first task)
 
 ## 1. Create the four Bots
 
-For each file in `bots/profiles/`:
+Paste each file in `bots/profiles/` via **New → Create new Bot → Edit Profile**, then send **First task**:
 
-1. Grok Bot → **New** → **Create new Bot**
-2. Edit Profile → paste **Name**, **Title**, **Description**
-3. Send the **First task**
-4. After a good run, ask: `Save this process as a skill called "<skill name from profile>"`
+1. Growth Lead  
+2. Scout  
+3. Reply Hunter  
+4. Viral Writer  
 
 ## 2. Connect plugins
 
-In Grok Bot: **Plugins** (sidebar) or avatar → Plugins on mobile.
+**Plugins → X** → authorize the account you want to grow.  
+Optional: Gmail / Calendar / Drive.
 
-| Plugin | Why |
-| --- | --- |
-| **X** | Search, timelines, trends, bookmarks; posting when you approve ([marketplace](https://cursor.com/marketplace/cursor/x)) |
-| Gmail | Optional digests / “reply to this email about my X brand” |
-| Google Calendar | Optional posting reminders aligned to `config/profile.json` hours |
-| Google Drive | Optional long-form drafts / swipe files |
+Confirm with: `@X what can you do on my account?`
 
-Plugins are **account-wide** — install once, every Bot can use them. In chat, `@` the plugin when a task needs it.
+## 3. Lock config
 
-### X plugin notes
+Edit `config/profile.json` — set `xHandle` and a **sharp** `niche` / `wedge`.  
+Paste `bots/skills/x-account-voice.md` and `bots/skills/post-approval-checklist.md` as skills when asked.
 
-1. Add **X** → authorize the account you want the Bots to run.
-2. Confirm tools show as available, then ask any Bot: `@X what can you do on my account?`
-3. If auth fails: reopen Plugins → reconnect → retry. Some setups need an X developer bearer token; complete that in the browser when prompted.
-4. Keep **write** actions (posts, likes, follows) behind approval until you trust the roster.
+## 4. War Room
 
-## 3. Fill your profile
+**New** → select all four Bots → paste `bots/kickoffs/x-war-room.md`.
 
-Edit `config/profile.json`: set `xHandle`, tweak `niche` / pillars / hours. Paste the niche + approval rules into each Bot’s first message once:
+## 5. Your daily 20 minutes (human)
 
-> My handle is @____. Niche: ____. Timezone: America/Chicago. Always follow the approval rules in your description.
+1. Approve / edit Reply Hunter pack → send the winners yourself (or approve sends once trusted)  
+2. Pick 1–3 Viral Writer drafts to post at your hours  
+3. Glance at Growth Lead scoreboard  
 
-Also paste or attach `voice/VOICE.md` (or save it as a skill — see `bots/skills/`).
+Bots prepare; you protect reputation.
 
-## 4. Open the War Room
+## 6. Routines
 
-**New** → select X Ops Lead, Scout, Ghostwriter, Engagement → paste `bots/kickoffs/x-war-room.md`.
-
-## 5. Turn on routines (after one good manual day)
-
-Ask each owning Bot to create the matching routine in `bots/routines/`. Then **Test run** with safe inputs (drafts only).
-
-Docs: [Routines](https://cursor.com/docs/grok-bot/work#create-a-routine) · [Connect plugins](https://cursor.com/help/grok-bot/connect-plugins)
-
-## 6. Teach by demo (optional, powerful)
-
-For “how I actually post on X”:
-
-1. Open a 1:1 with Ghostwriter + Agent Computer
-2. **Teach a task** → post one draft the way you like (stop before Publish if you want)
-3. Edit the draft skill: add approval boundary + voice rules
-4. Test on a second draft before any routine posts
+After one solid day: paste `bots/routines/daily.md` into each owner → **Test run**.
 
 ## Trust ladder
 
-1. Week 1: drafts only  
-2. Week 2: you paste/publish from drafts  
-3. Week 3+: allow Bot to publish **one** approved post at a time via X plugin  
-4. Later: scheduled routines that still stop for approval on anything public  
+1. Drafts only  
+2. You paste/publish  
+3. Approve one Bot-sent reply/post at a time  
+4. Routines still stop before anything public goes live without you  
+
+Details: `bots/GROWTH.md`

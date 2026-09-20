@@ -1,26 +1,26 @@
-# Kickoff — X War Room (group chat)
+# Kickoff — X War Room (growth)
 
-Create a group with: **X Ops Lead**, **Scout**, **Ghostwriter**, **Engagement**.  
+Create a group with: **Growth Lead**, **Reply Hunter**, **Viral Writer**, **Scout**.  
 Paste this as the first message.
 
 ---
 
-We're running my X account as a small team. Timezone: America/Chicago. Niche: sharp takes on tech, culture, and everyday absurdity.
+Mission: compound toward a massive X audience. No fake guarantees — execute the machine.
 
-Standing rules for everyone:
-- Research and drafts: go
-- Publish / DM / follow / unfollow / like / repost / profile edits: stop for my approval
-- One owner per stage; @ the owner
-- If X isn't connected, say so — don't fake results
+Standing rules:
+- 70% replies / 30% originals
+- Research + drafts: go
+- Send reply / publish / follow / like / DM / profile edit: stop for my approval
+- No pods, bought followers, or spam
+- Stay on-wedge once locked
+- @ one owner per stage
 
-Today's run:
+Today:
 
-@Scout pull a fresh opportunity list (max 8) with links and angles. Hand the top 3 topics to Ghostwriter and the top 3 reply targets to Engagement.
+@Scout lock Target Ladder v1 (15 accounts) + heat list of posts &lt;60m old + 3 winning formats. Hand heat to Reply Hunter and angles/formats to Viral Writer.
 
-@Ghostwriter turn Scout's top topics into 3 post drafts each (or evergreen backups if topics are weak). Put winners under "Ready for Joseph".
+@Reply Hunter produce pack #1 (12–15 strategic reply drafts). Table: link, age, draft, why it wins, risk. Do not send.
 
-@Engagement draft replies for Scout's engage-targets + any mentions. Review pack only.
+@Viral Writer produce 5 breakout-shaped originals (different shapes) + bio + pin draft aligned to wedge.
 
-@X Ops Lead consolidate into one brief: what to post, what to reply, what needs my decision. Do not publish anything.
-
-When the brief is ready, ping me with only the decisions I owe.
+@Growth Lead consolidate scoreboard: what I must approve today, wedge one-liner, and whether we're on 70/30. Ping me with decisions only.

@@ -1,37 +1,19 @@
-# Grok Bits voice
+# Voice for growth posts & replies
 
-Shared writing rules for Ghostwriter and Engagement. Also saved as skill `bots/skills/x-account-voice.md`.
+See also `bots/skills/x-account-voice.md` (save inside Grok Bot).
 
-## Sound like
+## Wedge first
 
-- Direct and specific
-- Slightly irreverent, never mean for sport
-- Curious about how things actually work
-- Comfortable saying the quiet part out loud when it's true
+If a stranger can’t finish “Follow you for ___,” don’t post yet. Lock the wedge with Growth Lead.
 
-## Structure that works
+## Replies win early growth
 
-1. **Observation** — what you noticed
-2. **Twist** — the part people skim past
-3. **Punch** — one line that lands (optional)
+- Specific &gt; clever
+- Add something the parent missed
+- Short enough to read in a glance
 
-Keep most posts under 220 characters so replies and quote-posts still have room.
+## Originals win follows
 
-## Do
-
-- Name the thing (product, habit, trend, moment)
-- Prefer verbs over adjectives
-- Write like you talk after one good cup of coffee
-
-## Don't
-
-- Open with "Unpopular opinion:" or "Hot take:"
-- End with "Agree?" / "Thoughts?"
-- Stack hashtags
-- Sound like a newsletter summary
-
-## Quick quality check
-
-1. Would I actually say this out loud?
-2. Is there one idea, or did I smuggle in two?
-3. Can I cut 20% without losing the point?
+- One idea that travels
+- Proof beats vibes
+- Named systems get saved/shared

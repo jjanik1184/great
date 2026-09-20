@@ -1,47 +1,49 @@
-# Routines — ask each Bot after one good manual day
+# Routines — growth machine
 
-Paste these into a 1:1 with the owning Bot. Then use **Test run** (drafts only).
+Install only after one good manual day. **Test run = drafts only.**
 
 ---
 
-## X Ops Lead — morning brief
+## Scout — morning fuel (7:00 AM CT)
 
 ```
-Create a routine: every day at 7:30 AM America/Chicago, run skill "Daily X ops brief".
-Pull the latest Scout list, Ghostwriter ready drafts, and Engagement review pack from shared context / War Room.
-Post the brief in this conversation with a "Waiting on Joseph" section.
-Do not publish, DM, or change anything on X.
-If sources are missing, report what's missing instead of inventing content.
+Create a routine: every day at 7:00 AM America/Chicago, run skill "X growth scout run" with @X.
+Deliver Target Ladder updates, heat list (posts <60m when possible), and 3 winning formats.
+Hand off to Reply Hunter and Viral Writer. Do not engage on X. If @X fails, report and stop.
 ```
 
-## Scout — morning opportunities
+## Reply Hunter — morning + midday packs
 
 ```
-Create a routine: every day at 7:00 AM America/Chicago, run skill "X opportunity scout" with @X.
-Return a ranked list (max 10) in this conversation and hand top topics to Ghostwriter / targets to Engagement.
-Do not like, follow, bookmark-alter, or post.
-If @X is unavailable, report failure and stop.
+Create a routine: every day at 7:20 AM and 12:20 PM America/Chicago, run skill "X reply hunt pack" with @X.
+Each run: 12–15 strategic reply drafts on Scout's heat/targets. Quality bar: specific add, no empty praise.
+Do not send replies. Post the review table in this conversation for Joseph.
 ```
 
-## Ghostwriter — draft batch
+## Viral Writer — morning batch
 
 ```
-Create a routine: every day at 7:45 AM America/Chicago, run skill "X ghostwrite batch".
-Use Scout's latest opportunities (or evergreen pillars if Scout is empty).
-Produce 5 drafts under "Ready for Joseph". Do not publish or schedule.
+Create a routine: every day at 7:40 AM America/Chicago, run skill "X breakout draft batch".
+Produce 5 travel-shaped drafts on-wedge. No publish. Label shape + risk.
 ```
 
-## Engagement — reply pack
+## Reply Hunter — evening pack (optional)
 
 ```
-Create a routine: every day at 11:00 AM and 5:00 PM America/Chicago, run skill "X engagement pack" with @X.
-Cap at 8 draft replies. Do not send likes, follows, or replies.
+Create a routine: every day at 5:30 PM America/Chicago, run skill "X reply hunt pack" with @X for 10 more drafts on fresh heat. Do not send.
 ```
 
-## X Ops Lead — weekly review (optional)
+## Growth Lead — morning scoreboard (7:50 AM CT)
+
+```
+Create a routine: every day at 7:50 AM America/Chicago, run skill "Daily X growth scoreboard".
+Summarize Hunter packs + Writer drafts + decisions Joseph owes. Enforce 70/30. Do not publish or change profile.
+```
+
+## Growth Lead — weekly review (Sunday 5:00 PM CT)
 
 ```
 Create a routine: every Sunday at 5:00 PM America/Chicago.
-Summarize which drafts I approved, which pillars we over/under-used, and 3 experiments for next week.
-Do not change the live account. Ask me before updating Bot descriptions.
+Report: follows gained (if known), best reply themes, best original shapes, wedge drift, 3 experiments for next week.
+Propose — don't apply — bio/pin changes. No public actions.
 ```
