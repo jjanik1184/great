@@ -1,0 +1,35 @@
+{
+  "displayName": "Joseph",
+  "channelName": "",
+  "channelUrl": "",
+  "handle": "",
+  "timezone": "America/Chicago",
+  "promise": "This channel is where you get ___ (lock with YT Growth Lead)",
+  "niche": "TBD — one repeatable promise",
+  "formats": [
+    "long-form explainers / experiments",
+    "named systems / frameworks",
+    "build-in-public receipts",
+    "Shorts that bridge to long-form"
+  ],
+  "cadence": {
+    "longFormPerWeek": 1,
+    "shortsPerWeek": 3
+  },
+  "targets": {
+    "ctrBaselineNote": "Track vs your own baseline; ~4–10% is a common healthy band depending on niche",
+    "first30sRetentionFocus": true
+  },
+  "milestones": [
+    "1K subs — promise + packaging + weekly cadence locked",
+    "10K — repeatable formats + Shorts bridge working",
+    "100K — series/playlists + returning viewers",
+    "1M+ — rare; repeated breakouts + cultural topics"
+  ],
+  "approvalRules": [
+    "Never upload or publish without explicit approval",
+    "Never change live titles/thumbnails without approval",
+    "No bought subscribers or fake engagement",
+    "Packaging must be deliverable in the first 30 seconds"
+  ]
+}
