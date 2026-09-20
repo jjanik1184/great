@@ -13,16 +13,10 @@
     "postsPerDay": 3,
     "preferredHoursLocal": [8, 12, 19]
   },
-  "voiceNotes": [
-    "Sound like a sharp friend, not a brand.",
-    "One idea per bit. Cut the throat-clearing.",
-    "Prefer concrete over abstract.",
-    "Wit is the seasoning, not the meal."
-  ],
-  "avoid": [
-    "hashtag spam",
-    "engagement bait questions",
-    "thread openers that promise value and deliver fluff",
-    "AI-sounding cadence (Moreover, Furthermore, In today's world)"
+  "approvalRules": [
+    "Never publish a post without explicit approval",
+    "Never send a DM, follow, unfollow, like, or repost without approval",
+    "Never change bio, avatar, banner, or pinned post without approval",
+    "Drafts must include: text, why it fits the niche, and risk notes"
   ]
 }

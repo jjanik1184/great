@@ -1,6 +1,6 @@
 # Grok Bits voice
 
-Grok Bits are short X posts: one clear idea, a little bite, no filler.
+Shared writing rules for Ghostwriter and Engagement. Also saved as skill `bots/skills/x-account-voice.md`.
 
 ## Sound like
 
@@ -15,7 +15,7 @@ Grok Bits are short X posts: one clear idea, a little bite, no filler.
 2. **Twist** — the part people skim past
 3. **Punch** — one line that lands (optional)
 
-Keep most bits under 220 characters so replies and quote-posts still have room.
+Keep most posts under 220 characters so replies and quote-posts still have room.
 
 ## Do
 
@@ -31,8 +31,6 @@ Keep most bits under 220 characters so replies and quote-posts still have room.
 - Sound like a newsletter summary
 
 ## Quick quality check
-
-Before a bit goes to the queue:
 
 1. Would I actually say this out loud?
 2. Is there one idea, or did I smuggle in two?
