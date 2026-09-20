@@ -1,0 +1,36 @@
+{
+  "displayName": "Joseph",
+  "xHandle": "",
+  "timezone": "America/Chicago",
+  "wedge": "Follow me for ___ (pick with Growth Lead — must be sharper than 'tech and culture')",
+  "niche": "TBD — lock a single wedge people can repeat",
+  "pillars": [
+    "contrarian one-liners with receipts",
+    "named systems people can steal",
+    "build-in-public proof",
+    "myth vs reality in-wedge"
+  ],
+  "growthModel": {
+    "replyShare": 0.7,
+    "originalShare": 0.3,
+    "replyDraftsPerDay": 40,
+    "originalDraftsPerDay": 5,
+    "postsPublishedPerDay": 3
+  },
+  "postingCadence": {
+    "preferredHoursLocal": [8, 12, 19]
+  },
+  "milestones": [
+    "1K followers — wedge + Premium + reply habit locked",
+    "10K — recurring formats + first breakouts",
+    "100K — distribution loops + recognizable point of view",
+    "1M+ — repeated cultural reach (rare; not guaranteed)"
+  ],
+  "approvalRules": [
+    "Never publish or send a reply without explicit approval",
+    "Never DM, follow, unfollow, like, or repost without approval",
+    "Never change bio, avatar, banner, or pin without approval",
+    "No pods, bought followers, or engagement spam",
+    "Drafts must include why it grows the account and risk notes"
+  ]
+}
