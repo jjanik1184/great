@@ -1,0 +1,28 @@
+{
+  "displayName": "Joseph",
+  "xHandle": "",
+  "timezone": "America/Chicago",
+  "niche": "sharp takes on tech, culture, and everyday absurdity",
+  "pillars": [
+    "hot takes that age well",
+    "short observations from real life",
+    "tech / AI without the hype fog",
+    "dry humor, zero corporate voice"
+  ],
+  "postingCadence": {
+    "postsPerDay": 3,
+    "preferredHoursLocal": [8, 12, 19]
+  },
+  "voiceNotes": [
+    "Sound like a sharp friend, not a brand.",
+    "One idea per bit. Cut the throat-clearing.",
+    "Prefer concrete over abstract.",
+    "Wit is the seasoning, not the meal."
+  ],
+  "avoid": [
+    "hashtag spam",
+    "engagement bait questions",
+    "thread openers that promise value and deliver fluff",
+    "AI-sounding cadence (Moreover, Furthermore, In today's world)"
+  ]
+}
